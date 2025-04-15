@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>New Test Case</description>
+   <name>AS1017-CMS Tanya 175 - 3. Edit konten dengan video dokumen validasi kalo nama sama</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c32fcf85-ee42-433a-9718-5bcb0bda61aa</testCaseGuid>
+</TestCaseEntity>

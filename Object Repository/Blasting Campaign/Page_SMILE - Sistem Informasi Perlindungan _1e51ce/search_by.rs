@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>search_by</name>
+   <tag></tag>
+   <elementGuidId>9db569b9-25fd-4e58-b3e9-f6f26c5be66d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='search_by']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#search_by</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#search_by</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>74f58b3c-a3f5-457b-9f12-7958f26ecadd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>search_by</value>
+      <webElementGuid>34052e36-4b32-4a77-9571-47721b00165c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>search_by</value>
+      <webElementGuid>99b5ebac-548e-4e25-85dc-a00b76decf74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>search_by_changed()</value>
+      <webElementGuid>0dc17076-9408-4fb6-9159-0f7ff3144ea7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                        -- Pilih --
+                                        NIK
+                                        
+                                    </value>
+      <webElementGuid>666c1404-ef65-4983-93f1-864669f5a26a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;search_by&quot;)</value>
+      <webElementGuid>d288fa10-ceac-49f9-ad90-1b5daffdc8b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Blasting Campaign/Page_SMILE - Sistem Informasi Perlindungan _1e51ce/iframe_AS1024-BlastingCampaign_form</value>
+      <webElementGuid>7aba072b-cc0d-4973-a8d0-7128053b6687</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='search_by']</value>
+      <webElementGuid>f630185a-8ef7-43e2-8ba3-9bf5ff152a43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='div_filter']/div/div/div[3]/select</value>
+      <webElementGuid>8a2bebe7-ab55-4880-abc8-33a096dc3e38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search by :'])[1]/following::select[1]</value>
+      <webElementGuid>2c3e61f7-ba57-41c9-9054-66fac53043f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AS1024 - BLASTING/CAMPAIGN DETIL'])[1]/following::select[1]</value>
+      <webElementGuid>9ba98ce2-d748-44ad-9355-1754629806c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NO'])[1]/preceding::select[1]</value>
+      <webElementGuid>d180b37a-dde5-45fe-b006-797d97a927dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NIK'])[2]/preceding::select[1]</value>
+      <webElementGuid>9ce83d8b-f098-48aa-bb76-0c257625bf31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>17451b77-f403-435f-863f-8e312b5bb3a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'search_by' and @id = 'search_by' and (text() = '
+                                        -- Pilih --
+                                        NIK
+                                        
+                                    ' or . = '
+                                        -- Pilih --
+                                        NIK
+                                        
+                                    ')]</value>
+      <webElementGuid>ff2488a1-bcab-4f0c-969b-02b3ff00a3e1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

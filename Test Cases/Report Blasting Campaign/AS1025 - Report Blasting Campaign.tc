@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AS1025 - Report Blasting Campaign</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d884466a-7f4a-4018-8681-0fa904d4645d</testCaseGuid>
+</TestCaseEntity>

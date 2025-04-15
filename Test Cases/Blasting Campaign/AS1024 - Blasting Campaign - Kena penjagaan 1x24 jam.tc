@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AS1024 - Blasting Campaign - Kena penjagaan 1x24 jam</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>829f81de-45ec-4a52-be07-dce376866b36</testCaseGuid>
+</TestCaseEntity>

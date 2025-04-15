@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_View</name>
+   <tag></tag>
+   <elementGuidId>9ec71163-d07d-478b-a0f2-ff613ffa4295</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@onclick=&quot;showFormDetil('3b214235-592c-464c-8f5f-f4f539844afa', '2024-09-05 10:26:31', '29', 'deeplink_promo.csv', 'Promo1', 'T', 'http://mobileapps-logs-jmo-develop.apps.ocp-drc.bpjsketenagakerjaan.go.id/promo/download/3b214235-592c-464c-8f5f-f4f539844afa.gz/EK262740', 'Y')&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td:nth-of-type(2) > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;1 View 3b214235-592c-464c-8f5f-f4f539844afa deeplink_promo.csv 2024-09-05 10:26:31 29 selesai upload&quot;i] >> a</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>927de6a4-0335-42c5-a03d-ae1eebdbf7db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>showFormDetil('3b214235-592c-464c-8f5f-f4f539844afa', '2024-09-05 10:26:31', '29', 'deeplink_promo.csv', 'Promo1', 'T', 'http://mobileapps-logs-jmo-develop.apps.ocp-drc.bpjsketenagakerjaan.go.id/promo/download/3b214235-592c-464c-8f5f-f4f539844afa.gz/EK262740', 'Y')</value>
+      <webElementGuid>5151ee61-1c87-45f4-b4cb-d5783b209103</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>View</value>
+      <webElementGuid>56a92a63-2bbf-462d-a920-a6229da4faee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;data_list&quot;)/tr[1]/td[2]/a[1]</value>
+      <webElementGuid>44d5c845-a1c7-4b75-a4a8-def0f249bf2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Blasting Promo/Page_SMILE - Sistem Informasi Perlindungan _1e51ce/iframe_AS1027-Upload Data Blasting Promo_form</value>
+      <webElementGuid>e05e1a7d-6cc4-4bd0-93d9-3c2c26c7bfab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick=&quot;showFormDetil('3b214235-592c-464c-8f5f-f4f539844afa', '2024-09-05 10:26:31', '29', 'deeplink_promo.csv', 'Promo1', 'T', 'http://mobileapps-logs-jmo-develop.apps.ocp-drc.bpjsketenagakerjaan.go.id/promo/download/3b214235-592c-464c-8f5f-f4f539844afa.gz/EK262740', 'Y')&quot;]</value>
+      <webElementGuid>ad252768-4403-4799-a5e3-0e1bd9741137</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tbody[@id='data_list']/tr/td[2]/a</value>
+      <webElementGuid>2dc782e6-0b95-40e9-9066-10ac37734234</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'View')]</value>
+      <webElementGuid>201268f2-173c-45c0-93b9-9ba57fc27e1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[1]/following::a[1]</value>
+      <webElementGuid>60e79684-6c53-49c8-81ea-cf4edb6adcac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jumlah Data'])[1]/following::a[1]</value>
+      <webElementGuid>b29dad79-f537-452a-a67e-e804503f0749</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='deeplink_promo.csv'])[1]/preceding::a[1]</value>
+      <webElementGuid>9f4936e2-7290-4f5a-b44b-ad1bb311c367</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='selesai upload'])[1]/preceding::a[1]</value>
+      <webElementGuid>6e6e76f7-10e2-4eb5-bc2c-e97be0c47028</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='View']/parent::*</value>
+      <webElementGuid>c12cc9c0-5795-4c19-9efc-fd8869ec6ca5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/a</value>
+      <webElementGuid>7cc9383d-ea4e-47e8-9489-7be1b358c07e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'View' or . = 'View')]</value>
+      <webElementGuid>27f1848c-3b7c-4601-bd78-b3532d3062e4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

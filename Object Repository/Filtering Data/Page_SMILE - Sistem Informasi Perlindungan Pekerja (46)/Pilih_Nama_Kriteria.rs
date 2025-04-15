@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Pilih_Nama_Kriteria</name>
+   <tag></tag>
+   <elementGuidId>e3b9156e-031f-4c03-8999-f267827c7126</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='search_by']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#search_by</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#search_by</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>d28854b0-01f3-4dcb-9ce8-1077d1068aed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>search_by</value>
+      <webElementGuid>46142b3b-5c81-4e2d-b4f5-fa525f5d7b72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>search_by</value>
+      <webElementGuid>cd1be74c-070b-469d-a61d-ecdb8fdb7642</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>search_by_changed()</value>
+      <webElementGuid>8e9d5d40-10b5-4070-854f-c6ad6cfbefc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+													-- Pilih --
+													Nama Kriteria
+									</value>
+      <webElementGuid>e49284c8-c186-499a-924c-c7a736e68a1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;search_by&quot;)</value>
+      <webElementGuid>8640866e-26f4-4570-b2c1-28413ddc1e8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Filtering Data/Page_SMILE - Sistem Informasi Perlindungan Pekerja (46)/iframe_AS1023-Filtering Data_form</value>
+      <webElementGuid>bf34d99d-c26f-4f03-84a5-d0b8983505e0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='search_by']</value>
+      <webElementGuid>6eb777a0-94b6-4bad-bb2a-919d929e4a31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='div_filter']/div/div/div[4]/select</value>
+      <webElementGuid>139af808-b5f3-4da4-be5c-14fe0b6ad6ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search by :'])[1]/following::select[1]</value>
+      <webElementGuid>365b63fe-1907-40bb-a39f-275d9cec9d0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Action'])[1]/preceding::select[1]</value>
+      <webElementGuid>91151a44-5345-4b59-8970-fc315954c65f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Kriteria'])[2]/preceding::select[1]</value>
+      <webElementGuid>2e639376-c4e9-4e85-83ea-8a6fa53862a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>d5361556-9a65-426c-b028-2fe1d1187f17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'search_by' and @id = 'search_by' and (text() = '
+													-- Pilih --
+													Nama Kriteria
+									' or . = '
+													-- Pilih --
+													Nama Kriteria
+									')]</value>
+      <webElementGuid>202ed435-c660-4420-8313-f328f0b61759</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

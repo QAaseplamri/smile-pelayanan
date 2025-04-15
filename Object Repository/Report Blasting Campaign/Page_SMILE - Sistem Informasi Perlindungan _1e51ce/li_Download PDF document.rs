@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Download PDF document</name>
+   <tag></tag>
+   <elementGuidId>81afd830-59c2-4ba8-bf4c-a23379a6667c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='highcharts-iq5vyag-418']/div[4]/ul/li[5]&#xd;
+&#xd;
+&#xd;
+&#xd;
+&#xd;
+&#xd;
+&#xd;
+&#xd;
+&#xd;
+&#xd;
+&#xd;
+&#xd;
+&#xd;
+</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Download PDF document&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>60fd7b16-3c72-4505-9de1-5cbe179fabb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>highcharts-menu-item</value>
+      <webElementGuid>80b3e036-2972-4b0d-b050-ef23ae0259a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>ceee106a-b563-4462-8d56-5b584d04b752</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Download PDF document</value>
+      <webElementGuid>a47672e3-4c1e-4dfa-8b8a-20233aa9d650</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;highcharts-iq5vyag-418&quot;)/div[@class=&quot;highcharts-contextmenu&quot;]/ul[@class=&quot;highcharts-menu&quot;]/li[@class=&quot;highcharts-menu-item&quot;]</value>
+      <webElementGuid>9f026500-85e1-48e5-8f6a-add0aaa07a4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Report Blasting Campaign/Page_SMILE - Sistem Informasi Perlindungan _1e51ce/iframe_AS1025-Report BlastingCampaign_form</value>
+      <webElementGuid>998eef10-8f9d-4efc-982a-b82257eb3d71</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='highcharts-iq5vyag-418']/div[4]/ul/li[5]</value>
+      <webElementGuid>e0726aa5-73ad-4c85-9096-03871c171ca8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download JPEG image'])[1]/following::li[1]</value>
+      <webElementGuid>e6e86719-7b9c-4720-ae18-68a977872fd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download PNG image'])[1]/following::li[2]</value>
+      <webElementGuid>310b24ed-1292-4ce2-9805-1f12154ef8d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download SVG vector image'])[1]/preceding::li[1]</value>
+      <webElementGuid>4d642850-0b75-4bed-9ac8-8a2421a9cb54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download CSV'])[1]/preceding::li[2]</value>
+      <webElementGuid>0151df90-031c-4f03-a5df-ee063bb6c25e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Download PDF document']/parent::*</value>
+      <webElementGuid>85aeb56d-1042-40cd-927d-613d1f83a333</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]</value>
+      <webElementGuid>a215b965-f9f2-4468-8da6-c3a97d21ea0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Download PDF document' or . = 'Download PDF document')]</value>
+      <webElementGuid>1b4fd102-d325-4edb-a24d-463bd92d972f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

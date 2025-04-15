@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FAQ005 - Cek status - PPMF - Petugas Pengelola CMS FAQ ( 0 )</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2cf595d1-464e-44b6-a407-455a1fe6e2ef</testCaseGuid>
+</TestCaseEntity>

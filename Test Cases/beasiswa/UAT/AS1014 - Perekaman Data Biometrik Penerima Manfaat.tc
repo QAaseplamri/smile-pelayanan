@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>AS1014 - Perekaman Data Biometrik Penerima Manfaat</description>
+   <name>AS1014 - Perekaman Data Biometrik Penerima Manfaat</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>81b79512-d3a9-40aa-8524-af33918e951c</testCaseGuid>
+</TestCaseEntity>

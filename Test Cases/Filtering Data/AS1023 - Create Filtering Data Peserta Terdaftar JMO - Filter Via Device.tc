@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AS1023 - Create Filtering Data Peserta Terdaftar JMO - Filter Via Device</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f4eb4222-e995-4caf-97c6-19abd58718c5</testCaseGuid>
+</TestCaseEntity>

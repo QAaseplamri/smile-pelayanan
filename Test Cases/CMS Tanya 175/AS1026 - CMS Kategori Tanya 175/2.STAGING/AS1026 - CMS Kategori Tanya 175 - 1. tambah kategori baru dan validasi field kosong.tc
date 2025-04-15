@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>AS1026 - CMS Kategori Tanya 175</description>
+   <name>AS1026 - CMS Kategori Tanya 175 - 1. tambah kategori baru dan validasi field kosong</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e2d3d904-6cb7-4f5e-b6d7-f5b2153d3bbd</testCaseGuid>
+</TestCaseEntity>

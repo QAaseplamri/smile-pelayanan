@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AS1014 - Perekaman Data Biometrik Penerima Manfaat</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f00cda80-41f2-40ec-a0cf-c3b175404a6a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d053a6f8-826a-4f22-88f7-651425dd47ea</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'3671075305750003'</defaultValue>
+      <description></description>
+      <id>d053a6f8-826a-4f22-88f7-651425dd47ea</id>
+      <masked>false</masked>
+      <name>NIK</name>
+   </variable>
+</TestCaseEntity>

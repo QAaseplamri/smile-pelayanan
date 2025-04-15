@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>kategori-new-edit-delete-validasi</description>
+   <name>kategori-new-edit-delete-validasi</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a9af2bd4-f1b2-4d8f-a829-f3ed5f0dcb97</testCaseGuid>
+</TestCaseEntity>

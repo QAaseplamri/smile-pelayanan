@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AS1026 - CMS Kategori Tanya 175 - 4. kategori sudah di pakai di AS1017, maka kategori tidak bisa di edit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2b11a995-be6b-42b1-ab45-d28d56d8f23c</testCaseGuid>
+</TestCaseEntity>

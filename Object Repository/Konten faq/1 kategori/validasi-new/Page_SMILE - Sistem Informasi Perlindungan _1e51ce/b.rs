@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b</name>
+   <tag></tag>
+   <elementGuidId>0d97e06c-de99-42ff-ba48-e53a113f3204</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>b</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='formframe']/div/div[2]/div/div[6]/div[2]/div/div[2]/span/span/span/span[2]/b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>a3da5f80-bdb8-4aca-9cdb-6993cbe062a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>c03f2ac3-0147-4532-8d46-ab7a3d220f76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;formframe&quot;)/div[@class=&quot;div-container&quot;]/div[@class=&quot;div-body&quot;]/div[@class=&quot;div-filter&quot;]/div[@class=&quot;div-row-between&quot;]/div[@class=&quot;right-item&quot;]/div[@class=&quot;div-row&quot;]/div[@class=&quot;item&quot;]/span[@class=&quot;select2 select2-container select2-container--default select2-container--below select2-container--open select2-container--focus&quot;]/span[@class=&quot;selection&quot;]/span[@class=&quot;select2-selection select2-selection--single&quot;]/span[@class=&quot;select2-selection__arrow&quot;]/b[1]</value>
+      <webElementGuid>8c996b77-8fc6-45b2-8e69-b575dc367c32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Konten faq/1 kategori/validasi-new/Page_SMILE - Sistem Informasi Perlindungan _1e51ce/iframe_AS1031-CMS FAQ Kategori dan Sub Kate_6caf2b</value>
+      <webElementGuid>f43f7b33-113c-4cba-9088-1da0a0068bfe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='formframe']/div/div[2]/div/div[6]/div[2]/div/div[2]/span/span/span/span[2]/b</value>
+      <webElementGuid>0175b858-8c52-49cd-8622-f8cfb3092ba7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//b</value>
+      <webElementGuid>f757241d-941d-4cb7-a4b3-a0f76af837b1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

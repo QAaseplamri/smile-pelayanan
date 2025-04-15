@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_UJI KATALON 202412</name>
+   <tag></tag>
+   <elementGuidId>b6612b67-4616-4363-890f-370f49a2db0f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#kategori_FKAT015</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[@id='kategori_FKAT015']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>585036d0-5251-4ddb-9d27-cc1ea9e9854e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>kategori_FKAT015</value>
+      <webElementGuid>d35d125d-7e67-4da9-9cc9-0bd4e456b474</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>UJI KATALON 202412</value>
+      <webElementGuid>5c01f1a6-2fc7-4cc2-8021-ad6a0a765b2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kategori_FKAT015&quot;)</value>
+      <webElementGuid>4c9128ce-858e-45a9-8c7a-ffd3497310cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Konten faq/sub kategori fix/Page_SMILE - Sistem Informasi Perlindungan _1e51ce/iframe_AS1031-CMS FAQ Kategori dan Sub Kate_6caf2b</value>
+      <webElementGuid>f92bf6c8-3a9a-491f-b53c-29667306c39d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//td[@id='kategori_FKAT015']</value>
+      <webElementGuid>686bb486-55b5-4206-9936-9d148107fe2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tbody[@id='data_list']/tr/td[4]</value>
+      <webElementGuid>c62d8064-b400-4c15-9b57-2db38b6112f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FKAT015'])[1]/following::td[1]</value>
+      <webElementGuid>ef2ce9d4-2b80-451f-b27c-52d887f09948</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[1]/following::td[4]</value>
+      <webElementGuid>ff7a8564-3dd9-4f86-a5ce-b0af26dddce7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AKTIF'])[1]/preceding::td[2]</value>
+      <webElementGuid>41f59c2f-0f5e-4663-bf5f-260174b15fc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FKAT001'])[1]/preceding::td[5]</value>
+      <webElementGuid>fefcc298-6056-4e09-a7a9-08b202a0cc11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='UJI KATALON 202412']/parent::*</value>
+      <webElementGuid>50c9a070-6faa-46c5-a8bf-a42f277c2263</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]</value>
+      <webElementGuid>05534ee8-dbc5-4865-a3fa-bdd8f563a42d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[@id = 'kategori_FKAT015' and (text() = 'UJI KATALON 202412' or . = 'UJI KATALON 202412')]</value>
+      <webElementGuid>a5bc03d3-0fcb-4226-bf93-749ebf177c54</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_New</name>
+   <tag></tag>
+   <elementGuidId>b3845348-047a-4c6a-9c22-4b25a2aaee7c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='AS1026 - CMS Kategori Tanya 175'])[1]/following::span[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>96c7f12a-9b9b-46fe-b22c-0817210ddca6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>New</value>
+      <webElementGuid>5db83be3-1194-47d2-9854-37ccdc45a1aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;appcontent&quot;]/div[2]/div[@class=&quot;div-header-form&quot;]/div[@class=&quot;div-row&quot;]/div[@class=&quot;div-col&quot;]/div[@class=&quot;div-action&quot;]/div[@class=&quot;icon&quot;]/a[1]/span[1]</value>
+      <webElementGuid>17dd1e7c-b44d-4b75-818c-7b7b7e1fe95f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/175/validasi as1026/Page_SMILE - Sistem Informasi Perlindungan _1e51ce/iframe_AS1026- CMS Kategori Tanya 175_form</value>
+      <webElementGuid>10a666a3-be68-4e7a-840b-3ca232a55a02</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AS1026 - CMS Kategori Tanya 175'])[1]/following::span[1]</value>
+      <webElementGuid>607f23f8-0c78-49c9-9129-f0f7a062239d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search:'])[1]/preceding::span[1]</value>
+      <webElementGuid>33657706-6c4f-4133-9696-26d4700bcdeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='New']/parent::*</value>
+      <webElementGuid>a87bdec2-4266-422d-8f03-fba57cb2113e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>f1ffc310-da77-431c-8c8c-4595b53cf4da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'New' or . = 'New')]</value>
+      <webElementGuid>40077ab5-3f2f-4fba-bb08-c63e059b4fbd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>AS1026 - CMS Kategori Tanya 175 - menambahkan kategori baru dengan nama yang sama status sama</description>
+   <name>AS1026 - CMS Kategori Tanya 175 - 2. menambahkan kategori baru dengan nama yang sama status sama</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ecd539c3-f1ac-499c-9153-70f498046a95</testCaseGuid>
+</TestCaseEntity>

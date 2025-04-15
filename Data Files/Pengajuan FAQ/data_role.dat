@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>data_role</name>
+   <tag></tag>
+   <connectionProperties/>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>47dd6a61-77cf-41ef-8578-ff202d8a1244</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>ppmf PPMF+-+Petugas+Pengelola+CMS+FAQ+%28+0+%29</data>
+   <data>ppe PPE+-+Penata+Pelayanan+Elektronik+%28+0+%29</data>
+   <data>asdpe ASDPE+-+Asdep+Bidang+Pelayanan+Elektronik+%28+0+%29</data>
+   <data>deppep DEPPEP+-+Depdir+Bidang+PEP+%28+24A+%29</data>
+   <data>ppmf PPMF+-+Petugas+Pengelola+CMS+FAQ+%28+0+%29</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>inisial</name>
+      <size>5</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>role</name>
+      <size>5</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

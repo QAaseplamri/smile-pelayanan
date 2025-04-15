@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AS1023 - Create Filtering Data Peserta Terdaftar JMO - Delete</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>61aa2b0b-5f33-4e49-a6df-6100b45d623d</testCaseGuid>
+</TestCaseEntity>

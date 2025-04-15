@@ -1,0 +1,157 @@
+import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
+import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
+import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
+import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
+import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
+import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
+import com.kms.katalon.core.model.FailureHandling as FailureHandling
+import com.kms.katalon.core.testcase.TestCase as TestCase
+import com.kms.katalon.core.testdata.TestData as TestData
+import com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords as TestNGKW
+import com.kms.katalon.core.testobject.TestObject as TestObject
+import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
+import internal.GlobalVariable as GlobalVariable
+import org.openqa.selenium.Keys as Keys
+
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('http://172.28.108.46:5454/smile/login.bpjs')
+
+WebUI.setText(findTestObject('Object Repository/Konten faq/1 kategori/validasi-new-edt-delete/Page_SMILE - Sistem Informasi Perlindungan _1e51ce/input__login'), 
+    'EK262740')
+
+WebUI.click(findTestObject('Object Repository/Konten faq/1 kategori/validasi-new-edt-delete/Page_SMILE - Sistem Informasi Perlindungan _1e51ce/div_UsernamePassword'))
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Konten faq/1 kategori/validasi-new-edt-delete/Page_SMILE - Sistem Informasi Perlindungan _1e51ce/input__password'), 
+    'gKpkrQPjjYE=')
+
+WebUI.sendKeys(findTestObject('Object Repository/Konten faq/1 kategori/validasi-new-edt-delete/Page_SMILE - Sistem Informasi Perlindungan _1e51ce/input__password'), 
+    Keys.chord(Keys.ENTER))
+
+WebUI.click(findTestObject('Object Repository/Konten faq/1 kategori/validasi-new-edt-delete/Page_SMILE - Sistem Informasi Perlindungan _1e51ce/input__rule'))
+
+WebUI.doubleClick(findTestObject('Object Repository/Konten faq/1 kategori/validasi-new-edt-delete/Page_SMILE - Sistem Informasi Perlindungan _1e51ce/input__rule'))
+
+WebUI.setText(findTestObject('Object Repository/Konten faq/1 kategori/validasi-new-edt-delete/Page_SMILE - Sistem Informasi Perlindungan _1e51ce/input__rule'), 
+    'PPE')
+
+WebUI.click(findTestObject('Object Repository/Konten faq/1 kategori/kategori-new-edit-delete-validasi/Page_SMILE - Sistem Informasi Perlindungan _1e51ce/div_PPE - Penata Pelayanan Elektronik ( 0 )'))
+
+WebUI.click(findTestObject('Object Repository/Page_SMILE - Sistem Informasi Perlindungan _1e51ce/span_Pilih_button-1025-btnIconEl'))
+
+WebUI.doubleClick(findTestObject('Blasting Campaign/Page_SMILE - Sistem Informasi Perlindungan _1e51ce/span_e-Channel'))
+
+WebUI.doubleClick(findTestObject('Blasting Campaign/Page_SMILE - Sistem Informasi Perlindungan _1e51ce/span_JMO'))
+
+WebUI.scrollToElement(findTestObject('Konten faq/1 kategori/kategori-new-edit-delete-validasi/Page_SMILE - Sistem Informasi Perlindungan _1e51ce/span_AS1031-CMS FAQ Kategori dan Sub Kategori'), 
+    0)
+
+WebUI.click(findTestObject('Object Repository/Konten faq/1 kategori/validasi-new-edt-delete/Page_SMILE - Sistem Informasi Perlindungan _1e51ce/span_AS1031-CMS FAQ Kategori dan Sub Kategori'))
+
+WebUI.click(findTestObject('Konten faq/2 sub kategori/manual/radio_button_sub/Page_SMILE - Sistem Informasi Perlindungan Pekerja (46)/input_KATEGORI_rg_kategori'))
+
+WebUI.delay(5)
+
+WebUI.click(findTestObject('Object Repository/Konten faq/2 sub kategori/4 validasi-new-edit-delete/Page_SMILE - Sistem Informasi Perlindungan _1e51ce/a_'))
+
+WebUI.delay(5)
+
+WebUI.click(findTestObject('Object Repository/Konten faq/2 sub kategori/4 validasi-new-edit-delete/Page_SMILE - Sistem Informasi Perlindungan _1e51ce/a_Prev'))
+
+WebUI.delay(5)
+
+WebUI.click(findTestObject('Object Repository/Konten faq/2 sub kategori/4 validasi-new-edit-delete/Page_SMILE - Sistem Informasi Perlindungan _1e51ce/a_Next'))
+
+WebUI.delay(5)
+
+WebUI.click(findTestObject('Object Repository/Konten faq/2 sub kategori/4 validasi-new-edit-delete/Page_SMILE - Sistem Informasi Perlindungan _1e51ce/a__1'))
+
+WebUI.delay(5)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Konten faq/2 sub kategori/4 validasi-new-edit-delete/Page_SMILE - Sistem Informasi Perlindungan _1e51ce/select_1015202550'), 
+    '50', true)
+
+WebUI.click(findTestObject('Object Repository/Konten faq/2 sub kategori/4 validasi-new-edit-delete/Page_SMILE - Sistem Informasi Perlindungan _1e51ce/a_New'))
+
+WebUI.click(findTestObject('Object Repository/Konten faq/2 sub kategori/4 validasi-new-edit-delete/Page_SMILE - Sistem Informasi Perlindungan _1e51ce/a_Sub Kategori'))
+
+WebUI.click(findTestObject('Object Repository/Konten faq/2 sub kategori/4 validasi-new-edit-delete/Page_SMILE - Sistem Informasi Perlindungan _1e51ce/span_FKAT001 - UMUM'))
+
+WebUI.setText(findTestObject('Object Repository/Konten faq/2 sub kategori/4 validasi-new-edit-delete/Page_SMILE - Sistem Informasi Perlindungan _1e51ce/input_concat(id(, , select2-kategori0-resul_46b7cc'), 
+    '20250106 - KATEGORI')
+
+WebUI.delay(15)
+
+WebUI.setText(findTestObject('Object Repository/Konten faq/2 sub kategori/4 validasi-new-edit-delete/Page_SMILE - Sistem Informasi Perlindungan _1e51ce/input__subkategori'), 
+    '20250106 - SUBKATEGORI')
+
+WebUI.click(findTestObject('Object Repository/Konten faq/2 sub kategori/4 validasi-new-edit-delete/Page_SMILE - Sistem Informasi Perlindungan _1e51ce/input_TAMBAH DATA SUB KATEGORI_btn_simpan'))
+
+WebUI.click(findTestObject('Object Repository/Konten faq/2 sub kategori/4 validasi-new-edit-delete/Page_SMILE - Sistem Informasi Perlindungan _1e51ce/span_Yes_button-1006-btnIconEl'))
+
+WebUI.click(findTestObject('Object Repository/Konten faq/2 sub kategori/4 validasi-new-edit-delete/Page_SMILE - Sistem Informasi Perlindungan _1e51ce/span_OK_button-1005-btnIconEl'))
+
+WebUI.click(findTestObject('Object Repository/Konten faq/2 sub kategori/4 validasi-new-edit-delete/Page_SMILE - Sistem Informasi Perlindungan _1e51ce/span_-- Pilih Kategori --_select2-selection__arrow'))
+
+WebUI.setText(findTestObject('Object Repository/Konten faq/2 sub kategori/4 validasi-new-edit-delete/Page_SMILE - Sistem Informasi Perlindungan _1e51ce/input_concat(id(, , select2-kategori0-resul_46b7cc'), 
+    '20250106 - KATEGORI')
+
+WebUI.click(findTestObject('Object Repository/Konten faq/2 sub kategori/4 validasi-new-edit-delete/Page_SMILE - Sistem Informasi Perlindungan _1e51ce/input_Status_id_subkategori'))
+
+WebUI.delay(45)
+
+WebUI.click(findTestObject('Object Repository/Konten faq/2 sub kategori/4 validasi-new-edit-delete/Page_SMILE - Sistem Informasi Perlindungan _1e51ce/a_View'))
+
+WebUI.click(findTestObject('Object Repository/Konten faq/2 sub kategori/4 validasi-new-edit-delete/Page_SMILE - Sistem Informasi Perlindungan _1e51ce/input_PROSES APPROVAL_btn_tutup'))
+
+WebUI.click(findTestObject('Object Repository/Konten faq/2 sub kategori/4 validasi-new-edit-delete/Page_SMILE - Sistem Informasi Perlindungan _1e51ce/input_Status_id_subkategori'))
+
+WebUI.delay(45)
+
+WebUI.click(findTestObject('Object Repository/Konten faq/2 sub kategori/4 validasi-new-edit-delete/Page_SMILE - Sistem Informasi Perlindungan _1e51ce/a_Edit'))
+
+WebUI.setText(findTestObject('Object Repository/Konten faq/2 sub kategori/4 validasi-new-edit-delete/Page_SMILE - Sistem Informasi Perlindungan _1e51ce/input__subkategori_1'), 
+    '20250106 - SUBKATEGORI - EDITED')
+
+WebUI.click(findTestObject('Object Repository/Konten faq/2 sub kategori/4 validasi-new-edit-delete/Page_SMILE - Sistem Informasi Perlindungan _1e51ce/input_TAMBAH DATA SUB KATEGORI_btn_simpan'))
+
+WebUI.click(findTestObject('Object Repository/Konten faq/2 sub kategori/4 validasi-new-edit-delete/Page_SMILE - Sistem Informasi Perlindungan _1e51ce/span_Yes_button-1006-btnIconEl'))
+
+WebUI.click(findTestObject('Object Repository/Konten faq/2 sub kategori/4 validasi-new-edit-delete/Page_SMILE - Sistem Informasi Perlindungan _1e51ce/span_OK_button-1005-btnIconEl'))
+
+WebUI.click(findTestObject('Object Repository/Konten faq/2 sub kategori/4 validasi-new-edit-delete/Page_SMILE - Sistem Informasi Perlindungan _1e51ce/input_Status_id_subkategori'))
+
+WebUI.click(findTestObject('Object Repository/Konten faq/2 sub kategori/4 validasi-new-edit-delete/Page_SMILE - Sistem Informasi Perlindungan _1e51ce/a_Delete'))
+
+WebUI.click(findTestObject('Object Repository/Konten faq/2 sub kategori/4 validasi-new-edit-delete/Page_SMILE - Sistem Informasi Perlindungan _1e51ce/span_Yes_button-1006-btnIconEl'))
+
+WebUI.click(findTestObject('Object Repository/Konten faq/2 sub kategori/4 validasi-new-edit-delete/Page_SMILE - Sistem Informasi Perlindungan _1e51ce/span_OK_button-1005-btnIconEl'))
+
+WebUI.click(findTestObject('Object Repository/Konten faq/2 sub kategori/4 validasi-new-edit-delete/Page_SMILE - Sistem Informasi Perlindungan _1e51ce/a_New'))
+
+WebUI.click(findTestObject('Object Repository/Konten faq/2 sub kategori/4 validasi-new-edit-delete/Page_SMILE - Sistem Informasi Perlindungan _1e51ce/a_Sub Kategori'))
+
+WebUI.setText(findTestObject('Object Repository/Konten faq/2 sub kategori/4 validasi-new-edit-delete/Page_SMILE - Sistem Informasi Perlindungan _1e51ce/input_concat(id(, , select2-kategori0-resul_46b7cc'), 
+    '20250106 - KATEGORI')
+
+WebUI.click(findTestObject('Object Repository/Konten faq/2 sub kategori/4 validasi-new-edit-delete/Page_SMILE - Sistem Informasi Perlindungan _1e51ce/input__subkategori'))
+
+WebUI.click(findTestObject('Object Repository/Konten faq/2 sub kategori/4 validasi-new-edit-delete/Page_SMILE - Sistem Informasi Perlindungan _1e51ce/input_TAMBAH DATA SUB KATEGORI_btn_simpan'))
+
+WebUI.click(findTestObject('Object Repository/Konten faq/2 sub kategori/4 validasi-new-edit-delete/Page_SMILE - Sistem Informasi Perlindungan _1e51ce/span_Yes_button-1006-btnIconEl'))
+
+WebUI.click(findTestObject('Object Repository/Konten faq/2 sub kategori/4 validasi-new-edit-delete/Page_SMILE - Sistem Informasi Perlindungan _1e51ce/span_OK_button-1005-btnIconEl'))
+
+WebUI.setText(findTestObject('Object Repository/Konten faq/2 sub kategori/4 validasi-new-edit-delete/Page_SMILE - Sistem Informasi Perlindungan _1e51ce/input__subkategori'), 
+    '20250106 - SUBKATEGORI')
+
+WebUI.click(findTestObject('Object Repository/Konten faq/2 sub kategori/4 validasi-new-edit-delete/Page_SMILE - Sistem Informasi Perlindungan _1e51ce/input_TAMBAH DATA SUB KATEGORI_btn_simpan'))
+
+WebUI.click(findTestObject('Object Repository/Konten faq/2 sub kategori/4 validasi-new-edit-delete/Page_SMILE - Sistem Informasi Perlindungan _1e51ce/span_Yes_button-1006-btnIconEl'))
+
+WebUI.click(findTestObject('Object Repository/Konten faq/2 sub kategori/4 validasi-new-edit-delete/Page_SMILE - Sistem Informasi Perlindungan _1e51ce/span_OK_button-1005-btnIconEl'))
+
